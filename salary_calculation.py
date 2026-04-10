@@ -1,4 +1,4 @@
-# Salary Calculation Model
+
 
 # Input values
 basic_salary = 20000
